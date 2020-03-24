@@ -7,6 +7,7 @@ Autor: Mateo Periago Serrano
 Fecha: 2020
 
 [El código para obtener los datos de Instagram](bunseki_scraper.py)
-El resultado son 17 CSVs, se pueden encontrar en [la carpeta reports](reports)
+
+El resultado son 17 CSVs, se pueden encontrar en [la carpeta reports](reports).
 
 [La Jupyter Notebook para procesar los reports obtenidos previamente](Investigación.ipynb)
